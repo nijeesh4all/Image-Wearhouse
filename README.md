@@ -8,6 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 	Responsive Design
 	Simple UI
 	Material UI
+	click on the **Photos Added** link to scroll to the appropriate image
 ### Development
 #### Prerequisites
 **Node JS**
